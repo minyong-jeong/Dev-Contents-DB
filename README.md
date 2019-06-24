@@ -6,6 +6,8 @@
 
 - [점프 투 파이썬](https://wikidocs.net/book/1) -  파이썬 기초를 학습할 수 있는 책
 - [백준 온라인 저지](https://www.acmicpc.net/) - 알고리즘을 학습할 수 있는 사이트
+- [Devhints](https://devhints.io/) - 여러 주제별(bash,react,es6 등) cheatsheets 모음
+
 ## 2. 백엔드
 
 - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html) - 도커의 기초개념과 간단한 이미지 생성 및 배포를 해볼 수 있는 포스트
