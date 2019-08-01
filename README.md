@@ -7,6 +7,7 @@
 - [점프 투 파이썬](https://wikidocs.net/book/1) -  파이썬 기초를 학습할 수 있는 책
 - [백준 온라인 저지](https://www.acmicpc.net/) - 알고리즘을 학습할 수 있는 사이트
 - [Devhints](https://devhints.io/) - 여러 주제별(bash,react,es6 등) cheatsheets 모음
+- [CodeSandbox](https://codesandbox.io) - 웹 개발을 위한 온라인 코드 에이터
 
 ## 2. 백엔드
 
