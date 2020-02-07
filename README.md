@@ -9,6 +9,12 @@
 - [Devhints](https://devhints.io/) - 여러 주제별(bash,react,es6 등) cheatsheets 모음
 - [CodeSandbox](https://codesandbox.io) - 웹 개발을 위한 온라인 코드 에디터
 - [Bash scripting cheatsheet](https://devhints.io/bash.html) - bash 스크립트의 기본 예제 코드들을 볼 수 있는 곳
+- [Java - JVM이란? JVM 메모리 구조](https://coding-start.tistory.com/205) - JVM 메모리 구조에 대해 공부할 수 있는 글
+- [Garbage Collection 모니터링 방법](https://d2.naver.com/helloworld/6043) - Java GC 모니터링 방법
+- [Java Reference와 GC](https://d2.naver.com/helloworld/329631) - Java GC와 참조에 관한 글
+- [Introduction to HAProxy Logging](https://www.haproxy.com/blog/introduction-to-haproxy-logging/) - haproxy 로깅 설정에 관한 글
+- [Java, max user processes, open files](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html) - java, max user processes, openfiles의 관계에 정리한 글
+
 
 ## 2. 백엔드
 
