@@ -21,6 +21,7 @@
 - [L4/L7 스위치의 대안, 오픈 소스 로드 밸런서 HAProxy](https://d2.naver.com/helloworld/284659) - 로드밸런싱 개념과 haproxy 동작 방식을 설명한 글
 - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html) - 도커의 기초개념과 간단한 이미지 생성 및 배포를 해볼 수 있는 포스트
 - [장고걸스 Django 튜토리얼](https://tutorial.djangogirls.org/ko/) - 장고를 학습하고 사이트를 만들어 보는 실습을 해볼 수 있는 글
+- [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792) - Commons DBCP에 대해 설명한 글
 
 ## 3. 프론트엔드
 
