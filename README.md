@@ -4,7 +4,7 @@
 
 ## 1. 개발
 
-- [점프 투 파이썬](https://wikidocs.net/book/1) -  파이썬 기초를 학습할 수 있는 책
+- [점프 투 파이썬](https://wikidocs.net/book/1) - 파이썬 기초를 학습할 수 있는 책
 - [백준 온라인 저지](https://www.acmicpc.net/) - 알고리즘을 학습할 수 있는 사이트
 - [Devhints](https://devhints.io/) - 여러 주제별(bash,react,es6 등) cheatsheets 모음
 - [CodeSandbox](https://codesandbox.io) - 웹 개발을 위한 온라인 코드 에디터
@@ -14,6 +14,7 @@
 - [Java Reference와 GC](https://d2.naver.com/helloworld/329631) - Java GC와 참조에 관한 글
 - [Introduction to HAProxy Logging](https://www.haproxy.com/blog/introduction-to-haproxy-logging/) - haproxy 로깅 설정에 관한 글
 - [Java, max user processes, open files](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html) - java, max user processes, openfiles의 관계에 정리한 글
+- [goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents) - 유익한 개발 컨텐츠 링크들을 모아둔 저장소
 
 ## 2. 네트워크
 
@@ -43,4 +44,3 @@
 ## 6. 인터뷰
 
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - 초급 개발자 기술면접을 위한 repo
-
