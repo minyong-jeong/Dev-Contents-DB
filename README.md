@@ -14,7 +14,7 @@
 - [Java Reference와 GC](https://d2.naver.com/helloworld/329631) - Java GC와 참조에 관한 글
 - [Introduction to HAProxy Logging](https://www.haproxy.com/blog/introduction-to-haproxy-logging/) - haproxy 로깅 설정에 관한 글
 - [Java, max user processes, open files](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html) - java, max user processes, openfiles의 관계에 정리한 글
-- [goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents) - 유익한 개발 컨텐츠 링크들을 모아둔 저장소
+- [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents) - 유익한 개발 컨텐츠 링크들을 모아둔 저장소
 
 ## 2. 네트워크
 
